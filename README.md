@@ -18,9 +18,10 @@ Outcomes: match_winner, won_by (Runs/Wickets), margin.
 Player Stats: player_of_the_match, top_scorer, highscore, best_bowling, best_bowling_figure.
 
 **Tools & Libraries**
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Jupyter Notebook
